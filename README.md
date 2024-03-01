@@ -71,7 +71,6 @@
    <p align="center">
     <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
-     <img src="https://img.icons8.com/color/48/null/eclipse-ide.png"/>
    </p>
 </span>
 
