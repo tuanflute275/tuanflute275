@@ -23,17 +23,17 @@
 <p align="center">
 
   </a>
-  <a href="https://www.facebook.com/" target="_blank" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100047425502024" target="_blank" alt="Facebook">
   <img src="https://img.icons8.com/fluency/65/000000/facebook.png"/>
   </a>
   <a>
   <a href="https://zalo.me/" target="_blank" alt="Zalo">
   <img src="https://img.icons8.com/color/65/000000/zalo.png"/>
   </a>
-  <a href="https://github.com/" alt="Github" >
+  <a href="https://github.com/tuanflute275" alt="Github" >
   <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
   </a> 
-  <a href="mailto:muzankibut112@gmail.com" alt="Email"  target="_blank">
+  <a href="mailto:tuanflute275@gmail.com" alt="Email"  target="_blank">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
 <!--🦶FOOTER--> 
 </p>
@@ -48,6 +48,9 @@
     <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/php.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
   </p>
 </span>
 <h4> Frameworks - Library </h4>
@@ -55,8 +58,12 @@
     <p align="center">
     <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
+    <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/laravel.png"/>
     <img src="https://img.icons8.com/color/48/null/nestjs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/asp.png"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   </p>
 </span>
 <h4> Database</h4>    
@@ -64,6 +71,7 @@
    <p align="center">
      <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
      <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
+     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
    </p>
 </span>
 <h4>  IDE</h4>    
@@ -71,6 +79,17 @@
    <p align="center">
     <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
+    <img src="https://img.icons8.com/color/48/000000/eclipse-ide.png"/>
+    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+   </p>
+</span>
+
+<h4>  CI-CD</h4>    
+<span>
+   <p align="center">
+    <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <img src="https://img.icons8.com/color/48/000000/jenkins.png"/>  
    </p>
 </span>
 
