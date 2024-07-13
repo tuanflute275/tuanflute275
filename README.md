@@ -79,8 +79,7 @@
    <p align="center">
     <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
-    <img src="https://img.icons8.com/color/48/000000/eclipse-ide.png"/>
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1200px-Eclipse-Luna-Logo.svg.png"/>
    </p>
 </span>
 
